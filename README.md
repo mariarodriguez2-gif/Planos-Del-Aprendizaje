@@ -17,7 +17,9 @@
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
+|Aurelio
+|Emily Gaitán
+| Marjelys                  |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
@@ -62,21 +64,6 @@
 
 ---
 
-## 🌟 Sugerencia creativa
 
-💡 Piensen su circuito como si fuera:
-- 🔌 Un sistema eléctrico  
-- 🛰️ Una red de datos  
-- 🚀 Una nave espacial en comunicación constante  
-
----
-
-## 🧩 Entregable
-
-- ✔️ Documento en Notion o PDF  
-- ✔️ Diseño visual del circuito  
-- ✔️ Reflexión grupal  
-
----
 
 ✨ *¡Conecten ideas, transmitan conocimiento y mantengan el circuito activo!*
